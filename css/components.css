@@ -1,0 +1,21 @@
+.numbered-title {
+  font-weight: var(--fs-500);
+  font-family: var(--ff-sans-cond);
+  text-transform: uppercase;
+  letter-spacing: 4.75px;
+}
+
+.numbered-title span {
+  margin-right: 0.5em;
+  font-weight: 700;
+  color: hsl(var(--clr-white) / 0.25);
+}
+
+.large-button {
+  display: grid;
+  padding: 0 2em;
+  place-items: center;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  text-decoration: none;
+}

@@ -1,3 +1,7 @@
+@import url("reset.css");
+@import url("utility.css");
+@import url("components.css");
+
 /* ----------------- */
 /* Custom properties */
 /* ----------------- */
@@ -23,6 +27,3 @@
   --ff-sans-cond: "Barlow Condensed", sans-serif;
   --ff-sans-normal: "Barlow", sans-serif;
 }
-
-@import url("reset.css");
-@import url("utility.css");
